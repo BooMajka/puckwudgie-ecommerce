@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS puck_db;
+
+CREATE DATABASE puck_db;
